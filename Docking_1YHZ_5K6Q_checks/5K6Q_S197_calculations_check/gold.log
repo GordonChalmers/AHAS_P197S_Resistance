@@ -1,0 +1,14 @@
+Beginning ligand file 'C:/Users/chalm/Desktop/Rustem_AHAS_Work/6K6Q_AtAHAS_docking_SER_197/Chlorsulfuron.mol'
+Starting at ligand 1 (byte position 0) in file 'C:/Users/chalm/Desktop/Rustem_AHAS_Work/6K6Q_AtAHAS_docking_SER_197/Chlorsulfuron.mol'
+Finishing at final ligand in file 'C:/Users/chalm/Desktop/Rustem_AHAS_Work/6K6Q_AtAHAS_docking_SER_197/Chlorsulfuron.mol'
+Completed docking of ligand 1 in ligand file 'C:/Users/chalm/Desktop/Rustem_AHAS_Work/6K6Q_AtAHAS_docking_SER_197/Chlorsulfuron.mol' in 48.076000 seconds
+
+Finished GOLD batch job, exiting..
+
+
+--------------------------------------------------------------------------------
+
+* Total run time :                                                              
+  total 49.0018 user 43.0009 sys  6.0009
+
+--------------------------------------------------------------------------------
