@@ -1,0 +1,8 @@
+# File containing a listing of the fitness of the top-ranked
+# individual for each ligand docked in GOLD.
+#
+# Format is:
+#
+#     Score     S(PLP)   S(hbond)     S(cho)   S(metal)  DE(clash)   DE(tors)     intcor     time                               File name                Ligand name
+
+     33.35     -26.84       2.62       0.00       0.00       0.00       2.30       3.27   37.000  'C:/Users/chalm/Desktop/Rustem_AHAS_Work\gold_soln_Chlorsulfuron_m1_39.mol'            'C12H12ClN5O4S'
